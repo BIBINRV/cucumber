@@ -1,0 +1,297 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 8933901800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforeeachscenario()"
+            }
+          }
+        ],
+        "line": 11,
+        "name": "verify login functionaliy for valid username and invalid password",
+        "description": "",
+        "id": "verify-login-functionality-in-adactin-application;verify-login-functionaliy-for-valid-username-and-invalid-password;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 679875700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.aftereachscenario()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "user is on adactin login page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "user enters valid \"bibin\" and invalid \"12365g\"",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 11200,
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "user clicks login button",
+            "match": {
+              "location": "StepDefinition.user_clicks_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 7,
+            "name": "Error page is displayed",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 5420147101,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforeeachscenario()"
+            }
+          }
+        ],
+        "line": 12,
+        "name": "verify login functionaliy for valid username and invalid password",
+        "description": "",
+        "id": "verify-login-functionality-in-adactin-application;verify-login-functionaliy-for-valid-username-and-invalid-password;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 652853199,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.aftereachscenario()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "user is on adactin login page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "user enters valid \"bibin01\" and invalid \"nihh12\"",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 5499,
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "user clicks login button",
+            "match": {
+              "location": "StepDefinition.user_clicks_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 7,
+            "name": "Error page is displayed",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 5382410300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforeeachscenario()"
+            }
+          }
+        ],
+        "line": 13,
+        "name": "verify login functionaliy for valid username and invalid password",
+        "description": "",
+        "id": "verify-login-functionality-in-adactin-application;verify-login-functionaliy-for-valid-username-and-invalid-password;;4",
+        "after": [
+          {
+            "result": {
+              "duration": 646543601,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.aftereachscenario()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "user is on adactin login page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "user enters valid \"bibin02\" and invalid \"5687jkk\"",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 5701,
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "user clicks login button",
+            "match": {
+              "location": "StepDefinition.user_clicks_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 7,
+            "name": "Error page is displayed",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 5387247501,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforeeachscenario()"
+            }
+          }
+        ],
+        "line": 14,
+        "name": "verify login functionaliy for valid username and invalid password",
+        "description": "",
+        "id": "verify-login-functionality-in-adactin-application;verify-login-functionaliy-for-valid-username-and-invalid-password;;5",
+        "after": [
+          {
+            "result": {
+              "duration": 655302801,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.aftereachscenario()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "user is on adactin login page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "user enters valid \"bibin03\" and invalid \"kloiu@31\"",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 6501,
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "user clicks login button",
+            "match": {
+              "location": "StepDefinition.user_clicks_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 7,
+            "name": "Error page is displayed",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "verify login functionality in adactin application",
+    "description": "",
+    "id": "verify-login-functionality-in-adactin-application",
+    "keyword": "Feature",
+    "uri": "C:/Users/babin/eclipse/AdactinCucumber/src/test/resources/AdactinData.feature",
+    "tags": []
+  }
+]
